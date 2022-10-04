@@ -1,0 +1,20 @@
+{
+  "loppisapi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-loppis-loppisapi-103002-authRole",
+      "UnauthRoleArn": "arn:aws:iam::340637383813:role/amplify-loppis-loppisapi-103002-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::340637383813:role/amplify-loppis-loppisapi-103002-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-loppis-loppisapi-103002-deployment",
+      "UnauthRoleName": "amplify-loppis-loppisapi-103002-unauthRole",
+      "StackName": "amplify-loppis-loppisapi-103002",
+      "StackId": "arn:aws:cloudformation:eu-north-1:340637383813:stack/amplify-loppis-loppisapi-103002/15aa7fb0-409a-11ed-8459-0e940681a3ee",
+      "AmplifyAppId": "di8hunkyt8mnj"
+    },
+    "categories": {
+      "auth": {
+        "loppis08890bc7": {}
+      }
+    }
+  }
+}

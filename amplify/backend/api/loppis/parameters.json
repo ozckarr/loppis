@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "loppis",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authloppis08890bc7",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
